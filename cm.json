@@ -153,6 +153,15 @@
         "id_x": 10,
         "title": "บทที่ 10 Comparison of Adjectives",
         "Content": [{
+            "name": "1) Comparison of Adjectives ",
+            "description": "ือ การเปรียบเทียบคำคุณศัพท์ ที่ใช้ในการเปรียบเทียบคน สัตว์ สิ่งของ หรือ อื่นๆ ในภาษาอังกฤษได้มีการเปรียบเทียบอยู่ 3 ขึ้น คือ\n1. ขั้นธรรมดา (Positive Degree)เป็นการเปรียบเทียบความเท่าเทียมกัน ของสองสิ่ง โครงสร้างประโยคดังนี้\nAs + adjectives + as\nแปลว่า …เท่าที่ เช่น\nAs long as you love me, I won’t go anywhere.\n= ตราบเท่าที่เธอรักฉัน ฉันจะไม่ไปไหน\nAs soon as possible หรือ ASAP คำย่อในภาษาอังกฤษแปลว่า เร็วเท่าที่…\nEx. Please call me back ASAP you reach home.\n= กรุณาติดต่อกลับเร็วที่สุดทันทีที่ถึงบ้าน\n\n2. ขั้นกว่า (Comparative Degree)การใช้คำคุณศัพท์ในการเปรียบเทียบมีอยู่ 3 ขั้น แต่ในบทเรียนนี้เราจะเจาะจงไปที่การเปรียบเทียบขั้นกว่า หรือ Comparative Adjectivesโครงสร้างประโยคแบบที่ 1 : S + V. to be + adj. +er + thanรูปแบบแรกจะมีการเติม -er ท้ายคำคุณศัพท์ (adjective) และตามด้วย than ประโยคนั้นจะมีความหมายว่า สิ่งหนึ่ง … กว่าอีกสิ่งหนึ่ง เช่น ตัวอย่างด้านล่าง\nNanny is younger than Lisa.\n= นีน่าอายุน้อยกว่าลิซ่าโครงสร้างประโยคแบบที่ 2 : S + V. to be + more + adj. + thanรูปแบบนี้เราจะเติมคำว่า more ไว้ด้านหน้า แล้วตามด้วยคำคุณศัพท์ (adjective) และวาง than ในลำดับต่อมา เพื่อที่จะเปรียบเทียบว่าสิ่งหนึ่ง … กว่าอีกสิ่งหนึ่ง เช่น\nEnglish is more fun than Math.\n= ภาษาอังกฤษสนุกกว่าคณิตศาสตร์หากเป็นความคิดเห็นมักจะเจอคำที่แสดงความคิดเห็นด้านหน้าประโยค เช่น\nIn my opinion…\n= ในความคิดเห็นของฉันนั้น…\n\n3. ขั้นสูงสุด (Superlative Degree)เป็นการเปรียบเทียบขั้นสูงสุด ใช้ในการเปรียบเทียบที่มากกว่า 2 สิ่งขึ้นไป นิยมใช้ the นำหน้า ADJ. ซึ่งมีรูปประโยคดังนี้\nThe + คำคุณศัพท์ (Adjectives) เติม –est\nEx. The richest man in the world is in the USA.\n= ผู้ชายที่รวยที่สุดในโลกอยู่ในประเทศสหรัฐอเมริกา\nThe + most + คำคุณศัพท์ (Adjectives)\nEx. The most handsome man in the world is Robert Pattinson right now.\n= โรเบิร์ต แพททินสันคือผู้ชายที่หล่อที่สุดในโลก ณ ตอนน"
+        }
+        ]
+    },
+    {
+        "id_x": 11,
+        "title": "บทที่ 11 Adjective Clauses",
+        "Content": [{
             "name": "1) Adjective Clause (Relative Clauses)",
             "description": "คืออนุประโยคที่ทำหน้าที่เหมือนคำคุณศัพท์ คือขยายคำนามและสรรพนามจะนำหน้าด้วยคำเชื่อม 2 ชนิด โดยอาจชี้เฉพาะคำนามนั้นหรือให้ข้อมูลเพิ่มเติมเกี่ยวกับคำนามนั้น เช่น \nRelative Pronoun – who whom that which whose\nEx. I don’t like people who drink water without a straw.\nRelative Adverb – when where why\nEx. We visited the house where our mother was born"
         },
@@ -163,20 +172,11 @@
         ]
     },
     {
-        "id_x": 11,
-        "title": "บทที่ 11 Adjective Clauses",
-        "Content": [{
-            "name": "1) Preposition ",
-            "description": "หรือ คำบุพบท คือ คำที่ใช้เชื่อมความสัมพันธ์ระหว่างคำ ๆ หนึ่ง กับคำอื่นในวลีหรือประโยค ไม่ว่าจะเป็น คำนาม คำสรรพนาม หรือคำกริยา เพื่อบอก เวลา สถานที่ ตำแหน่ง ทิศทาง วิธีการ หรือเหตุผล เพื่อให้ประโยคสมบูรณ์ ตัวอย่างคำบุพบท เช่น in on at after about above below over under between by down for from with without เป็นต้นPreposition หรือ คำบุพบท แบ่งออกเป็น 3 แบบ คือ\n3.1 Preposition of Place (คำบุพบทบ่งบอกตำแหน่ง หรือ สถานที่) เป็นคำบุพบทที่บ่งบอกถึงตำแหน่งของ คน สัตว์ สิ่งของ ว่าอยู่ที่ใดบ้าง คำบุพบทที่พบบ่อย คือ in, on, at, above เป็นต้น3.2 Preposition of Time (คำบุพบทบ่งบอกเวลา) เป็นคำบุพบทที่บ่งบอกถึงการแสดงเวลา เช่น \nชั่วโมง วัน สัปดาห์ เดือน ปี ฤดูกาลต่าง ๆ คำบุพบทที่พบบ่อย คือ in, on, at, during, from…to…, since, until เป็นต้น \n3.3 Preposition of Direction (คำบุพบทบ่งบอกทิศทาง) เป็นคำบุพบทที่บ่งบอกทิศทาง บอกการเคลื่อนไหว ว่ามาจากทางไหน หรือจะไปทางไหน คำบุพบทที่พบบ่อย คือ to, from, into, through, out of, down, up เป็นต้น"
-        }
-        ]
-    },
-    {
         "id_x": 12,
         "title": "บทที่ 12 Adverb Clauses",
         "Content": [{
-            "name": "1) Preposition ",
-            "description": "หรือ คำบุพบท คือ คำที่ใช้เชื่อมความสัมพันธ์ระหว่างคำ ๆ หนึ่ง กับคำอื่นในวลีหรือประโยค ไม่ว่าจะเป็น คำนาม คำสรรพนาม หรือคำกริยา เพื่อบอก เวลา สถานที่ ตำแหน่ง ทิศทาง วิธีการ หรือเหตุผล เพื่อให้ประโยคสมบูรณ์ ตัวอย่างคำบุพบท เช่น in on at after about above below over under between by down for from with without เป็นต้นPreposition หรือ คำบุพบท แบ่งออกเป็น 3 แบบ คือ\n3.1 Preposition of Place (คำบุพบทบ่งบอกตำแหน่ง หรือ สถานที่) เป็นคำบุพบทที่บ่งบอกถึงตำแหน่งของ คน สัตว์ สิ่งของ ว่าอยู่ที่ใดบ้าง คำบุพบทที่พบบ่อย คือ in, on, at, above เป็นต้น3.2 Preposition of Time (คำบุพบทบ่งบอกเวลา) เป็นคำบุพบทที่บ่งบอกถึงการแสดงเวลา เช่น \nชั่วโมง วัน สัปดาห์ เดือน ปี ฤดูกาลต่าง ๆ คำบุพบทที่พบบ่อย คือ in, on, at, during, from…to…, since, until เป็นต้น \n3.3 Preposition of Direction (คำบุพบทบ่งบอกทิศทาง) เป็นคำบุพบทที่บ่งบอกทิศทาง บอกการเคลื่อนไหว ว่ามาจากทางไหน หรือจะไปทางไหน คำบุพบทที่พบบ่อย คือ to, from, into, through, out of, down, up เป็นต้น"
+            "name": "1) Adverb clause",
+            "description": "(วิเศษณานุประโยค) คือ ประโยคย่อยที่ทำหน้าที่ขยายคำกริยาหรือ คำวิเศษณ์หรืออาจอธิบายได้ว่า Adverb clauseเป็นประโยคย่อมที่ขึ้นต้นด้วยคำสันธาน ชนิด subordinate conjunction (เป็นคำสันธานที่ใช้เชื่อมประโยคย่อยเข้ากับประโยคหลัก ส่วนคำสันธานที่ใช้ในประโยคความรวม เรียกว่า coordinating conjunction) และทั้ง Clause มี 9 ชนิด ดังนี้\n1. ขยายกริยาเผื่อแสดงเวลา (Adverb Clause of Time) เช่น when, whenever, while, \nwhilst, before, after, as soon as.\nEx. We were watching TV when the bell rang.\nEx. He went home while it was still light.\n2. ขยายกริยาเผื่อบอกสถานที่ (Adverb Clause of Place) เช่น where, wherever.\nEx. Where there’s smoke, there’s fire.\nEx. I will follow you wherever you go.\n3. ขยายกริยาเพื่อแสดงอาการ (Adverb Clause of Manner) เช่น as, as if, although, albeit\nEx. As you are sorry, I’ll forgive you this one time.\n4. ขยายกริยาวิเศษณ์หรือคุณศัพท์เพื่อแสดงการเปรียบเทียบ (Adverb Clause of Comparison)\nเช่น than, as…as, so…as\nEx. He is older than he looks.\nEx. Tom is not so clever as you think.\n5. ขยายกริยาหรือคุณศัพท์เพื่อแสดงเหตุผล (Adverb Clause of Cause/Reason) เช่น because, as, since.\nEx. Please go ahead of me, because I have something to do.\n6. ขยายกริยาเพื่อแสดงจุดมุ่งหมาย (Adverb Clause of Purpose)\nเช่น so (that), in case, lest, in order that, for fear (that)\nEx. We eat so that we can live.\nEx. He did everything in order that he could get the prize.\n7. ขยายกริยา คุณศัพท์ วิเศษณ์เพื่อแสดงผลลัพธ์ (Adverb Clause of Result) เช่น so...that, such...that\nso+ adj. + that + Clause = มากเสียจนกระทั่ง\nEx. So kind was she that everyone liked her.\nEx. Tom worked so hard that he succeeded.\n8. ขยายกริยาเพื่อแสดงเงื่อนไข (Adverb Clause of Condition) เช่น if, unless, provided that,on condition that.\nEx. If you will help, we’ll finish sooner.\nEx. You won’t succeed unless you work hard.\n9. ขยายกริยา หรือ คุณศัพท์ เพื่อแสดงการยอมรับ (Adverb Clause of Concession) เช่น thought, although, however, whatever.\nEx. Although it rained, everyone had a good time.\nEx. she is persistent though she doesn’t look so"
         }
         ]
     },
@@ -184,8 +184,8 @@
         "id_x": 13,
         "title": "บทที่ 13 Subject – Verb Agreement",
         "Content": [{
-            "name": "1) Preposition ",
-            "description": "หรือ คำบุพบท คือ คำที่ใช้เชื่อมความสัมพันธ์ระหว่างคำ ๆ หนึ่ง กับคำอื่นในวลีหรือประโยค ไม่ว่าจะเป็น คำนาม คำสรรพนาม หรือคำกริยา เพื่อบอก เวลา สถานที่ ตำแหน่ง ทิศทาง วิธีการ หรือเหตุผล เพื่อให้ประโยคสมบูรณ์ ตัวอย่างคำบุพบท เช่น in on at after about above below over under between by down for from with without เป็นต้นPreposition หรือ คำบุพบท แบ่งออกเป็น 3 แบบ คือ\n3.1 Preposition of Place (คำบุพบทบ่งบอกตำแหน่ง หรือ สถานที่) เป็นคำบุพบทที่บ่งบอกถึงตำแหน่งของ คน สัตว์ สิ่งของ ว่าอยู่ที่ใดบ้าง คำบุพบทที่พบบ่อย คือ in, on, at, above เป็นต้น3.2 Preposition of Time (คำบุพบทบ่งบอกเวลา) เป็นคำบุพบทที่บ่งบอกถึงการแสดงเวลา เช่น \nชั่วโมง วัน สัปดาห์ เดือน ปี ฤดูกาลต่าง ๆ คำบุพบทที่พบบ่อย คือ in, on, at, during, from…to…, since, until เป็นต้น \n3.3 Preposition of Direction (คำบุพบทบ่งบอกทิศทาง) เป็นคำบุพบทที่บ่งบอกทิศทาง บอกการเคลื่อนไหว ว่ามาจากทางไหน หรือจะไปทางไหน คำบุพบทที่พบบ่อย คือ to, from, into, through, out of, down, up เป็นต้น"
+            "name": "1) Subject Verb Agreement",
+            "description": " คือการใช้ประธาน (Subject) และคำกริยา (Verb) ให้มีความสอดคล้องกับแกรมม่า เช่น ประธานเป็นเอกพจน์ ต้องใช้คำกริยารูปเอกพจน์ is, does, has หรือคำกริยารูปที่เติม s/es ประธานเป็นพหูพจน์ก็ควรใช้คำกริยา are, do, have หรือคำกริยารูปที่ไม่ได้เติม s/es\n1. Subject แบบไหน Verb แบบนั้น\nถ้า Subject เป็นเอกพจน์Verb ก็ต้องเป็นเอกพจน์\nแต่ถ้า Subject เป็นพหูพจน์Verb ก็ต้องเป็นพหูพจน์\nเช่น \nEmma is watching T.V.\n= เอ็มม่ากำลังดูทีวี\nThey are talking.\n= พวกเขากำลังคุย\nทริคการจำ!\nประธานเติม -s อ๊ะ V. ไม่เติม -s\nประธานไม่เติม -s อ๊ะ V. เติม -s"
         }
         ]
     },
